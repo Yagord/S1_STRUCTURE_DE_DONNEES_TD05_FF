@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2017/12/11 17:24:12.000.057,C:\Users\Jean-Claude\Documents\Embarcadero\Studio\Projets\Project1.dproj=C:\Users\Jean-Claude\Documents\Embarcadero\Studio\Projets\SD_TD05_EX_UNIT.dproj</Transaction>
+    <Transaction>2017/12/11 17:24:22.000.115,C:\Users\Jean-Claude\Documents\Embarcadero\Studio\Projets\SD_TD05_EX_UNIT.dproj=C:\Users\Jean-Claude\Documents\Embarcadero\Studio\Projets\STRUCTURE DE DONNEES\SD_TD05_EX_UNIT.dproj</Transaction>
+    <Transaction>2017/12/11 17:24:38.000.543,=C:\Users\Jean-Claude\Documents\Embarcadero\Studio\Projets\STRUCTURE DE DONNEES\Unit1.pas</Transaction>
+    <Transaction>2017/12/11 17:25:01.000.291,C:\Users\Jean-Claude\Documents\Embarcadero\Studio\Projets\STRUCTURE DE DONNEES\Unit1.pas=C:\Users\Jean-Claude\Documents\Embarcadero\Studio\Projets\STRUCTURE DE DONNEES\Unit_SD_TD05_EX_UNIT.pas</Transaction>
+  </Transactions>
+</BorlandProject>
